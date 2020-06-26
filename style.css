@@ -9,15 +9,12 @@ body{
   font-family: Georgia, 'Times New Roman', Times, serif;
   background: linear-gradient(to bottom right,#eee ,#fff ) ;
   text-align: center;
+  height: 100vh;
 }
 .h1Style{
-  background-color: rgba(17, 17, 17, 0.87);
-  color: rgba(255, 255, 255, 0.897);
+  background-color: rgba(17, 17, 17, 0.404);
   padding: 1rem;
-  /* margin-top: 1rem; */
-}
-h1{
-  color: rgb(255, 255, 61);
+  color: rgb(255, 255, 10);
 }
 
 
